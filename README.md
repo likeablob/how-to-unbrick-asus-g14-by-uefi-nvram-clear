@@ -30,7 +30,7 @@ This is primarily a memo for myself. Attempting this procedure is at your own ri
     - [Winbond W74M12JW Datasheet](https://www.winbond.com/resource-files/W74M12JW%20RevA.pdf)
     - [Libreboot – Read/write 25XX NOR flash via SPI protocol](https://libreboot.org/docs/install/spi.html)
 
-<img src="https://gist.github.com/user-attachments/assets/09db8637-0936-4d72-bfeb-8037fa0ee1a3" height="300px">
+<img src="https://github.com/user-attachments/assets/4338d5b6-76bc-453d-8fad-9dc8778a6c1a" height="300px">
 
 The following is cited from the Libreboot docs. Note in this case VCC is 1.8V.
 
@@ -47,7 +47,8 @@ The following is cited from the Libreboot docs. Note in this case VCC is 1.8V.
     - GP4: MISO
     - GP5: CS
 
-<img src="https://gist.github.com/user-attachments/assets/ac9ed478-cbbd-43cd-a64e-62211ad6fe25" height="500px">
+<img src="https://github.com/user-attachments/assets/6aba348c-fed4-4548-9272-9177405b422e" height="500px">
+
 
 ### STM32F103 Blue Pill Setup
 
@@ -72,7 +73,7 @@ $ make BOARD=stm32-bluepill
 $ sudo make BOARD=stm32-bluepill flash-uart
 ```
 
-<img src="https://gist.github.com/user-attachments/assets/78f269fd-bf5a-4241-8998-51ac8d39c9b7" height="500px">
+<img src="https://github.com/user-attachments/assets/992faa19-58fb-4a08-9c35-74126ecf20b3" height="500px">
 
 ## Clearing NVRAM region
 
